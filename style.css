@@ -1,0 +1,125 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI Light","Segoe UI","Segoe WP","Helvetica Neue",sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #6b6363;
+    background-color: #0086b3;
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Segoe UI Light","Helvetica Neue","Segoe UI","Segoe WP",sans-serif;
+    font-weight: 100;
+    line-height: 1.1;
+}
+
+a { outline:none !important;}
+
+#header {
+    width: 100%;
+    min-height: 100%;
+    background-image: url(images/pattern.png);
+    background-repeat: repeat;
+    background-color: rgba(44, 62, 80, 0);
+}
+
+.myself {
+    border: 2px solid #fff;
+    background: url(images/me.jpeg) no-repeat;
+    background-position: top center;
+    width: 201px;
+    height: 201px;
+    margin: 0 auto;
+}
+
+/**/
+.find-me {
+    padding-top: 10px;
+}
+
+.find-me .btn.btn-clear {
+    border: 1px solid #fff;
+}
+
+.btn.btn-clear {
+    border: 1px solid #fff;
+    color: #fff;
+    background: none;
+    background-color: none;
+}
+
+.find-me .btn {
+    margin-right: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-round {
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+
+.btn-mail:hover {
+    background-color: white;
+    color: #EA4335;
+}
+
+.btn-twitter:hover {
+    background-color: white;
+    color: #00ACED;
+}
+
+.btn-facebook:hover {
+    background-color: white;
+    color: #3B5998;
+}
+
+.btn-google:hover {
+    background-color: white;
+    color: #4285F4;
+}
+
+.btn-github:hover {
+    background-color: white;
+    color: #181818;
+}
+
+.btn-linkedin:hover {
+    background-color: white;
+    color: #0077B5;
+}
+
+.btn-gpg:hover {
+    background-color: white;
+    color: #FFD700;
+}
+
+.find-me .btn.btn-gpg{
+    margin-right: 0px;
+}
