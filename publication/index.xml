@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | George Papadimitriou</title>
+    <link>https://georgpap.com/publication/</link>
+      <atom:link href="https://georgpap.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://georgpap.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Mining Workflows for Anomalous Data Transfers</title>
+      <link>https://georgpap.com/publication/ken-2021-msr/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/ken-2021-msr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in Scientific Workflows using End-to-End Execution Gantt Charts and Convolutional Neural Networks</title>
+      <link>https://georgpap.com/publication/krawczuk-pearc-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/krawczuk-pearc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Online Performance Data Capture and Analysis for Scientific Workflows</title>
+      <link>https://georgpap.com/publication/papadimitriou-fgcs-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-fgcs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An On-Demand Weather Avoidance System for Small Aircraft Flight Path Routing</title>
+      <link>https://georgpap.com/publication/lyons-dddas-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-dddas-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application Aware Software Defined Flows of Workflow Ensembles</title>
+      <link>https://georgpap.com/publication/papadimitriou-indis-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-indis-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Anomalous Packets in Network Transfers: Investigations using PCA, Autoencoder and Isolation Forest in TCP</title>
+      <link>https://georgpap.com/publication/kiran-ml-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/kiran-ml-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyNamo: Scalable Weather Workflow Processing in the Academic MultiCloud</title>
+      <link>https://georgpap.com/publication/lyons-ams-100-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-ams-100-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gearing the DECam Analysis Pipeline for Multi-Messenger Astronomy using Pegasus Workflows</title>
+      <link>https://georgpap.com/publication/vahi-adass-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/vahi-adass-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Execution Anomalies for Data Intensive Workflows Using Lightweight ML Techniques</title>
+      <link>https://georgpap.com/publication/wang-hpec-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/wang-hpec-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Submit Nodes as a Service on Leadership Class Systems</title>
+      <link>https://georgpap.com/publication/papadimitriou-pearc-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-pearc-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Execution Environments with Containers in Pegasus-enabled Scientific Workflows</title>
+      <link>https://georgpap.com/publication/vahi-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/vahi-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Data Streaming-based Science Gateway through Federated Cyberinfrastructure</title>
+      <link>https://georgpap.com/publication/rodero-gateways-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/rodero-gateways-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Burst Buffers on Data-Intensive Scientific Workflows</title>
+      <link>https://georgpap.com/publication/ferreiradasilva-fgcs-bb-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/ferreiradasilva-fgcs-bb-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of the Pegasus Workflow Management Software</title>
+      <link>https://georgpap.com/publication/deelman-cise-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/deelman-cise-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Dynamic Network-centric Distributed Cloud Platform for Scientific Workflows: A Case Study for Adaptive Weather Sensing</title>
+      <link>https://georgpap.com/publication/lyons-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Classifiers to Identify TCP Signatures inScientific Workflows</title>
+      <link>https://georgpap.com/publication/papadimitriou-indis-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-indis-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

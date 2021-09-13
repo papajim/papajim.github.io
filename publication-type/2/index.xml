@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | George Papadimitriou</title>
+    <link>https://georgpap.com/publication-type/2/</link>
+      <atom:link href="https://georgpap.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://georgpap.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Online Performance Data Capture and Analysis for Scientific Workflows</title>
+      <link>https://georgpap.com/publication/papadimitriou-fgcs-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-fgcs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Anomalous Packets in Network Transfers: Investigations using PCA, Autoencoder and Isolation Forest in TCP</title>
+      <link>https://georgpap.com/publication/kiran-ml-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/kiran-ml-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyNamo: Scalable Weather Workflow Processing in the Academic MultiCloud</title>
+      <link>https://georgpap.com/publication/lyons-ams-100-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-ams-100-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gearing the DECam Analysis Pipeline for Multi-Messenger Astronomy using Pegasus Workflows</title>
+      <link>https://georgpap.com/publication/vahi-adass-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/vahi-adass-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Burst Buffers on Data-Intensive Scientific Workflows</title>
+      <link>https://georgpap.com/publication/ferreiradasilva-fgcs-bb-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/ferreiradasilva-fgcs-bb-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of the Pegasus Workflow Management Software</title>
+      <link>https://georgpap.com/publication/deelman-cise-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/deelman-cise-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
