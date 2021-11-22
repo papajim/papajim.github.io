@@ -5,12 +5,20 @@
     <link>https://georgpap.com/publication-type/2/</link>
       <atom:link href="https://georgpap.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://georgpap.com/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Fair sharing of network resources among workflow ensembles</title>
+      <link>https://georgpap.com/publication/papadimitriou-cluster-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-cluster-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>End-to-End Online Performance Data Capture and Analysis for Scientific Workflows</title>

@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://georgpap.com/publication-type/1/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication-type/2/</loc>
+    <lastmod>2021-11-22T10:33:25-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/papadimitriou-works-2021/</loc>
+    <lastmod>2021-11-22T10:33:25-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/krawczuk-works-2021/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/papadimitriou-cluster-2021/</loc>
+    <lastmod>2021-11-22T10:33:25-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication_types/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/lyons-ucc-2021/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/lyons-escience-2021/</loc>
+    <lastmod>2021-11-22T10:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/project/poseidon/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/project/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://georgpap.com/tag/anomaly-detection/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
   </url><url>
@@ -17,26 +53,11 @@
     <loc>https://georgpap.com/tag/tcp-signatures/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication-type/1/</loc>
-    <lastmod>2021-09-10T12:28:40-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/</loc>
-    <lastmod>2021-09-10T12:28:40-07:00</lastmod>
-  </url><url>
     <loc>https://georgpap.com/publication/ken-2021-msr/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication_types/</loc>
-    <lastmod>2021-09-10T12:28:40-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/publication/</loc>
-    <lastmod>2021-09-10T12:28:40-07:00</lastmod>
-  </url><url>
     <loc>https://georgpap.com/tags/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/publication-type/2/</loc>
-    <lastmod>2021-09-10T12:28:39-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/krawczuk-pearc-2021/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
@@ -64,6 +85,9 @@
   </url><url>
     <loc>https://georgpap.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/project/flynet/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/lyons-dddas-2020/</loc>
     <lastmod>2021-09-10T12:28:37-07:00</lastmod>
@@ -104,14 +128,12 @@
     <loc>https://georgpap.com/publication/papadimitriou-indis-2019/</loc>
     <lastmod>2021-09-10T12:28:40-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/admin/</loc>
-  </url><url>
     <loc>https://georgpap.com/project/dynamo/</loc>
-  </url><url>
-    <loc>https://georgpap.com/project/flynet/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/project/panorama360/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/project/</loc>
+    <loc>https://georgpap.com/admin/</loc>
   </url>
 </urlset>

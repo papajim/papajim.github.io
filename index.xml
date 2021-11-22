@@ -5,12 +5,60 @@
     <link>https://georgpap.com/</link>
       <atom:link href="https://georgpap.com/index.xml" rel="self" type="application/rss+xml" />
     <description>George Papadimitriou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>George Papadimitriou</title>
       <link>https://georgpap.com/</link>
     </image>
+    
+    <item>
+      <title>A Lightweight GPU Monitoring Extension for Pegasus Kickstart</title>
+      <link>https://georgpap.com/publication/papadimitriou-works-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-works-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Characterization of Scientific Machine Learning Workflows</title>
+      <link>https://georgpap.com/publication/krawczuk-works-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/krawczuk-works-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair sharing of network resources among workflow ensembles</title>
+      <link>https://georgpap.com/publication/papadimitriou-cluster-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-cluster-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://georgpap.com/publication/lyons-ucc-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-ucc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Flash Floods in the Dallas-Fort Worth Metroplex Using Workflows and Cloud Computing</title>
+      <link>https://georgpap.com/publication/lyons-escience-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/lyons-escience-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PosEiDon</title>
+      <link>https://georgpap.com/project/poseidon/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/project/poseidon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mining Workflows for Anomalous Data Transfers</title>
@@ -111,6 +159,14 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FlyNet</title>
+      <link>https://georgpap.com/project/flynet/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/project/flynet/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -218,34 +274,26 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://georgpap.com/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://georgpap.com/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DyNamo</title>
       <link>https://georgpap.com/project/dynamo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://georgpap.com/project/dynamo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FlyNet</title>
-      <link>https://georgpap.com/project/flynet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://georgpap.com/project/flynet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panorama360</title>
       <link>https://georgpap.com/project/panorama360/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://georgpap.com/project/panorama360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://georgpap.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/admin/config.yml</guid>
       <description></description>
     </item>
     

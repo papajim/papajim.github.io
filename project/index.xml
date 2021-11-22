@@ -5,7 +5,7 @@
     <link>https://georgpap.com/project/</link>
       <atom:link href="https://georgpap.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,25 +13,33 @@
     </image>
     
     <item>
-      <title>DyNamo</title>
-      <link>https://georgpap.com/project/dynamo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://georgpap.com/project/dynamo/</guid>
+      <title>PosEiDon</title>
+      <link>https://georgpap.com/project/poseidon/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/project/poseidon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FlyNet</title>
       <link>https://georgpap.com/project/flynet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://georgpap.com/project/flynet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyNamo</title>
+      <link>https://georgpap.com/project/dynamo/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/project/dynamo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panorama360</title>
       <link>https://georgpap.com/project/panorama360/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://georgpap.com/project/panorama360/</guid>
       <description></description>
     </item>
