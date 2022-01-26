@@ -5,7 +5,7 @@
     <link>https://georgpap.com/</link>
       <atom:link href="https://georgpap.com/index.xml" rel="self" type="application/rss+xml" />
     <description>George Papadimitriou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>George Papadimitriou</title>
@@ -73,6 +73,14 @@
       <link>https://georgpap.com/publication/krawczuk-pearc-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://georgpap.com/publication/krawczuk-pearc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging Frameworks for Advancing Scientific Workflows Research, Development, and Education</title>
+      <link>https://georgpap.com/publication/casanova-works-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/casanova-works-2021/</guid>
       <description></description>
     </item>
     
