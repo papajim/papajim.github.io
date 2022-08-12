@@ -5,12 +5,20 @@
     <link>https://georgpap.com/</link>
       <atom:link href="https://georgpap.com/index.xml" rel="self" type="application/rss+xml" />
     <description>George Papadimitriou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>George Papadimitriou</title>
       <link>https://georgpap.com/</link>
     </image>
+    
+    <item>
+      <title>Automating Edge-to-cloud Workflows for Science: Traversing the Edge-to-cloud Continuum with Pegasus</title>
+      <link>https://georgpap.com/publication/tanaka-cloud-2-things-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/tanaka-cloud-2-things-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Lightweight GPU Monitoring Extension for Pegasus Kickstart</title>
