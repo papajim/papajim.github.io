@@ -2,26 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://georgpap.com/publication-type/6/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/book/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/papadimitriou-dddas-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/papadimitriou/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication_types/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tags/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
     <loc>https://georgpap.com/publication-type/1/</loc>
-    <lastmod>2023-04-18T14:45:14-07:00</lastmod>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication-type/2/</loc>
-    <lastmod>2023-04-18T14:45:14-07:00</lastmod>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/conference/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/morel-cnert-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/esquivel-morel-mic-2023/</loc>
     <lastmod>2023-04-18T14:45:14-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/</loc>
-    <lastmod>2023-04-18T14:45:14-07:00</lastmod>
+    <loc>https://georgpap.com/publication/morel-mic-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/jin-ijhpca-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/journal/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/esquivel-morel-icnc-2023/</loc>
     <lastmod>2023-04-18T14:45:14-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication_types/</loc>
-    <lastmod>2023-04-18T14:45:14-07:00</lastmod>
+    <loc>https://georgpap.com/publication/morel-icnc-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication/</loc>
-    <lastmod>2023-04-18T14:45:14-07:00</lastmod>
+    <loc>https://georgpap.com/tag/workshop/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/tanaka-cloud2things-2022/</loc>
     <lastmod>2022-08-12T01:46:19-07:00</lastmod>
@@ -66,9 +102,6 @@
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/ken-2021-msr/</loc>
-    <lastmod>2021-09-10T12:28:36-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tags/</loc>
     <lastmod>2021-09-10T12:28:36-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/krawczuk-pearc-2021/</loc>
@@ -116,8 +149,8 @@
     <loc>https://georgpap.com/publication/lyons-ams-100-2020/</loc>
     <lastmod>2021-09-10T12:28:38-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication/vahi-adass-2019/</loc>
-    <lastmod>2021-09-10T12:28:38-07:00</lastmod>
+    <loc>https://georgpap.com/publication/vahi-adass-2020/</loc>
+    <lastmod>2023-09-16T19:00:14-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/wang-hpec-2020/</loc>
     <lastmod>2021-09-10T12:28:37-07:00</lastmod>

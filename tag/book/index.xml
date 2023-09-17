@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book | George Papadimitriou</title>
+    <link>https://georgpap.com/tag/book/</link>
+      <atom:link href="https://georgpap.com/tag/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>book</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2023</copyright><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
+      <title>book</title>
+      <link>https://georgpap.com/tag/book/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Network-Centric Multi-cloud Platform for Real-Time and Data-Intensive Science Workflows</title>
+      <link>https://georgpap.com/publication/papadimitriou-dddas-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-dddas-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

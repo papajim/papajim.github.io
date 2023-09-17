@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal | George Papadimitriou</title>
+    <link>https://georgpap.com/tag/journal/</link>
+      <atom:link href="https://georgpap.com/tag/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>journal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
+      <title>journal</title>
+      <link>https://georgpap.com/tag/journal/</link>
+    </image>
+    
+    <item>
+      <title>FlyNet: Drones on the Horizon</title>
+      <link>https://georgpap.com/publication/morel-mic-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/morel-mic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph neural networks for detecting anomalies in scientific workflows</title>
+      <link>https://georgpap.com/publication/jin-ijhpca-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/jin-ijhpca-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
