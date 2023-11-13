@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elephant Flows | George Papadimitriou</title>
+    <link>https://georgpap.com/tag/elephant-flows/</link>
+      <atom:link href="https://georgpap.com/tag/elephant-flows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elephant Flows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
+      <title>Elephant Flows</title>
+      <link>https://georgpap.com/tag/elephant-flows/</link>
+    </image>
+    
+    <item>
+      <title>Elephants Sharing the Highway: Studying TCP Fairness in Large Transfers over High Throughput Links</title>
+      <link>https://georgpap.com/publication/mahmud-indis-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/mahmud-indis-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
