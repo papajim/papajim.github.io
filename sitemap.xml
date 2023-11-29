@@ -2,20 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://georgpap.com/publication-type/6/</loc>
-    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+    <loc>https://georgpap.com/publication-type/1/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/tag/book/</loc>
-    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+    <loc>https://georgpap.com/tag/active-queue-management/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication/papadimitriou-dddas-2023/</loc>
-    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+    <loc>https://georgpap.com/tag/buffer-size/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/elephant-flows/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/mahmud-indis-2023/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/fabric/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/fairness/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/</loc>
     <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/tag/papadimitriou/</loc>
-    <lastmod>2023-09-30T22:02:38-07:00</lastmod>
+    <loc>https://georgpap.com/tag/high-bandwidth/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/high-speed-internet/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication_types/</loc>
     <lastmod>2023-11-13T09:58:40-08:00</lastmod>
@@ -26,38 +41,32 @@
     <loc>https://georgpap.com/tags/</loc>
     <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication-type/0/</loc>
+    <loc>https://georgpap.com/tag/tcp-congestion-control/</loc>
+    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication-type/6/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/book/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/publication/papadimitriou-dddas-2023/</loc>
+    <lastmod>2023-09-16T19:00:13-07:00</lastmod>
+  </url><url>
+    <loc>https://georgpap.com/tag/papadimitriou/</loc>
     <lastmod>2023-09-30T22:02:38-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/publication-type/1/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
+    <loc>https://georgpap.com/publication-type/0/</loc>
+    <lastmod>2023-09-30T22:02:38-07:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication-type/2/</loc>
     <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/tag/active-queue-management/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tag/buffer-size/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
     <loc>https://georgpap.com/tag/conference/</loc>
     <lastmod>2023-09-30T21:50:47-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/tag/elephant-flows/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/publication/mahmud-indis-2023/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
     <loc>https://georgpap.com/publication/morel-cnert-2023/</loc>
     <lastmod>2023-09-16T19:00:13-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tag/fabric/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tag/fairness/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/publication/flow-bench/</loc>
     <lastmod>2023-09-30T22:02:38-07:00</lastmod>
@@ -71,12 +80,6 @@
     <loc>https://georgpap.com/publication/jin-ijhpca-2023/</loc>
     <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
-    <loc>https://georgpap.com/tag/high-bandwidth/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tag/high-speed-internet/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
-  </url><url>
     <loc>https://georgpap.com/tag/journal/</loc>
     <lastmod>2023-09-16T19:00:13-07:00</lastmod>
   </url><url>
@@ -85,9 +88,6 @@
   </url><url>
     <loc>https://georgpap.com/tag/preprint/</loc>
     <lastmod>2023-09-30T22:02:38-07:00</lastmod>
-  </url><url>
-    <loc>https://georgpap.com/tag/tcp-congestion-control/</loc>
-    <lastmod>2023-11-13T09:58:40-08:00</lastmod>
   </url><url>
     <loc>https://georgpap.com/tag/workshop/</loc>
     <lastmod>2023-09-16T19:00:13-07:00</lastmod>

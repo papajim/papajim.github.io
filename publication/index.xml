@@ -5,7 +5,7 @@
     <link>https://georgpap.com/publication/</link>
       <atom:link href="https://georgpap.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2023</copyright><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © George Papadimitriou, 2023</copyright><lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgpap.com/media/icon_hu3bfcff760e7e1069c8afd7c1fe4c2d1f_29522_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Dynamic Network-Centric Multi-cloud Platform for Real-Time and Data-Intensive Science Workflows</title>
-      <link>https://georgpap.com/publication/papadimitriou-dddas-2023/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://georgpap.com/publication/papadimitriou-dddas-2023/</guid>
+      <title>Elephants Sharing the Highway: Studying TCP Fairness in Large Transfers over High Throughput Links</title>
+      <link>https://georgpap.com/publication/mahmud-indis-2023/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/mahmud-indis-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elephants Sharing the Highway: Studying TCP Fairness in Large Transfers over High Throughput Links</title>
-      <link>https://georgpap.com/publication/mahmud-indis-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://georgpap.com/publication/mahmud-indis-2023/</guid>
+      <title>Dynamic Network-Centric Multi-cloud Platform for Real-Time and Data-Intensive Science Workflows</title>
+      <link>https://georgpap.com/publication/papadimitriou-dddas-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgpap.com/publication/papadimitriou-dddas-2023/</guid>
       <description></description>
     </item>
     
